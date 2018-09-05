@@ -1,6 +1,6 @@
 # R-Programming-Project
 Being Captain of the NIT Jamshedpur Cricket Team I 
-Created a dataset of NIT Jamshedpur's Cricket Team members in order to select 
+Created a dataset using R Studio of NIT Jamshedpur's Cricket Team members in order to select 
 the best 11 for a particular match by getting insights from the data using R programming
 
 Dataset consists data of few matches which will be updated 
